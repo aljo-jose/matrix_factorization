@@ -5,5 +5,5 @@ Y. Koren, R. Bell and C. Volinsky, "Matrix Factorization Techniques for Recommen
 
 mf.py - basic version (no bias, no regularizer, hand made data).  
 
-mf_db.py - mf connecting db (no bias, no regularizer, movilens db).  
+mf_db.py - mf connecting db (no bias, no regularizer, movielens db).  
 https://grouplens.org/datasets/movielens/
